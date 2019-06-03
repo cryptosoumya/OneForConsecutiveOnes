@@ -1,0 +1,5 @@
+To understand the code you must first understand how it is working, you need a model and a state diagram to follow the same
+the program is done in .v extension i.e. its a verilog program you would require XILINX software for running the same.
+for other programing language the logic will be same while the program will differ
+
+In verilog program we restrict our usage of while and for loops as it way hinder in circuit designing, so the only loop that we use is always
