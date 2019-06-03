@@ -1,21 +1,18 @@
-`timescale 1ns / 1ps
+ountO`timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
 // Create Date: 03.06.2019 10:17:12
-// Design Name: 
-// Module Name: person_countSIM
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
+// Design Name: OneForConsecutiveOnes
+// Module Name: OneForConsecutiveOnes
+// Project Name: Elevator
+// Target Devices: NA
+// Tool Versions: NA
+// Description: To count number of groups of ones 
 // 
-// Dependencies: 
+// Dependencies: NA
 // 
-// Revision:
+// Revision:Not Required
 // Revision 0.01 - File Created
-// Additional Comments:
+// Additional Comments:NA
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
