@@ -73,8 +73,4 @@ module OneForConsecutiveOnes(
             endcase
     end
     end
-    /*always @ (posedge clk)
-    begin
-    din=in[i];
-    i=i+*/
 endmodule
